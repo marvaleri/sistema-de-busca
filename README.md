@@ -47,7 +47,7 @@ Este projeto é uma aplicação de terminal escrita em Rust que permite buscar p
 # ▶️ Como executar
 1. Clone o repositório
 ~~~
-git clone https://github.com/seu-usuario/catalogo-produtos-rust.git
+git clone https://github.com/marvaleri/catalogo-produtos-rust.git
 cd catalogo-produtos-rust
 ~~~
 
